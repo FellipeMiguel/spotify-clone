@@ -24,7 +24,7 @@ git clone https://github.com/FellipeMiguel/spotify-clone.git
 cd spotify-clone
 ```
 
-3. Abra o arquivo `index.html`em um navegador web:
+3. Abra o arquivo `index.html` em um navegador web:
 
 ```
 open index.html
